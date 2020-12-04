@@ -8,13 +8,13 @@ sorting algorithm.
 
 Merge sort is modeled as a transition system in various stages.
 
-1. Manual Swap
-2. Manual Order
-3. Manual Order, Manual Merge
-4. Automatic Order, Manual Merge
-5. Automatic Order, Automatic Merge
+1. [Manual Swap](https://htmlf.github.io/merge-sort/MergeSort1.html)
+2. [Manual Order](https://htmlf.github.io/merge-sort/MergeSort2.html)
+3. [Manual Order, Manual Merge](https://htmlf.github.io/merge-sort/MergeSort3.html)
+4. [Automatic Order, Manual Merge](https://htmlf.github.io/merge-sort/MergeSort4.html)
+5. [Automatic Order, Automatic Merge](https://htmlf.github.io/merge-sort/MergeSort5.html)
 
 *Stage 5* is the actual *merge sort* algorithm, which is obviously automatic
 (the computer does it for you). The idea is to see the merge sort algorithm
-as a system derived from the very simple **Swap** system. Proofs of each
+as a system derived from the very simple **Manual Swap** system. Proofs of each
 such system are taught in the course.
