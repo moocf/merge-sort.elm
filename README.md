@@ -18,3 +18,5 @@ Merge sort is modeled as a transition system in various stages.
 (the computer does it for you). The idea is to see the merge sort algorithm
 as a system derived from the very simple **Manual Swap** system. Proofs of each
 such system are taught in the course.
+
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/merge-sort.elm)
